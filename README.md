@@ -21,5 +21,6 @@ The raging inferno has been tamed, its flames now burning with purpose and contr
 ![Air](pics/aang/aang-airbender.png)
 ### Air - Harmonious Breeze
 The winds blow with a gentle rhythm, carrying the whispers of peace once more. Clarity has returned to the element of Air, guiding its currents with grace and purpose amidst the restored harmony of the world.
+
 ---
-In this balanced state, the Avatar stands as a beacon of hope, ensuring that the elements remain in harmony, and the world thrives in peace once more.
+**In this balanced state, the Avatar stands as a beacon of hope, ensuring that the elements remain in harmony, and the world thrives in peace once more.**
